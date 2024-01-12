@@ -1,0 +1,57 @@
+phone_id,brand,model,release_year,operating_system,screen_size,cpu,ram,storage_capacity,camera_resolution,battery_capacity,price
+1,Apple,iPhone 13 Pro Max,2021,iOS 15,6.7 inches,A15 Bionic,6 GB,128 GB,12 MP,4352 mAh,1099
+2,Samsung,Galaxy S21 Ultra,2021,Android 11,6.8 inches,Exynos 2100,12 GB,128 GB,108 MP,5000 mAh,1199
+3,Google,Pixel 6 Pro,2021,Android 12,6.7 inches,Google Tensor,12 GB,128 GB,50 MP,5003 mAh,899
+4,OnePlus,9 Pro,2021,Android 11,6.7 inches,Snapdragon 888,8 GB,128 GB,48 MP,4500 mAh,969
+5,Xiaomi,Mi 11 Ultra,2021,Android 11,6.81 inches,Snapdragon 888,12 GB,256 GB,50 MP,5000 mAh,1299
+6,Huawei,P40 Pro,2020,Android 10,6.58 inches,Kirin 990 5G,8 GB,256 GB,50 MP,4200 mAh,999
+7,Motorola,Edge Plus,2020,Android 10,6.7 inches,Snapdragon 865,12 GB,256 GB,108 MP,5000 mAh,999
+8,Sony,Xperia 1 III,2021,Android 11,6.5 inches,Snapdragon 888,12 GB,256 GB,12 MP,4500 mAh,1299
+9,Oppo,Find X3 Pro,2021,Android 11,6.7 inches,Snapdragon 888,12 GB,256 GB,50 MP,4500 mAh,1149
+10,LG,Wing,2020,Android 10,6.8 inches,Snapdragon 765G,8 GB,256 GB,64 MP,4000 mAh,999
+11,Asus,ROG Phone 5,2021,Android 11,6.78 inches,Snapdragon 888,8 GB,128 GB,64 MP,6000 mAh,999
+12,Realme,GT,2021,Android 11,6.43 inches,Snapdragon 888,8 GB,128 GB,64 MP,4500 mAh,599
+13,Nokia,8.3 5G,2020,Android 10,6.81 inches,Snapdragon 765G,8 GB,128 GB,64 MP,4500 mAh,699
+14,HTC,U12+,2018,Android 8,6 inches,Snapdragon 845,6 GB,128 GB,12 MP,3500 mAh,799
+15,BlackBerry,Key2,2018,Android 8.1,4.5 inches,Snapdragon 660,6 GB,64 GB,12 MP,3500 mAh,649
+16,Apple,iPhone 12,2020,iOS 14,6.1 inches,A14 Bionic,4 GB,64 GB,12 MP,2815 mAh,799
+17,Samsung,Galaxy Note 20 Ultra,2020,Android 10,6.9 inches,Exynos 990,12 GB,128 GB,108 MP,4500 mAh,1299
+18,Google,Pixel 5,2020,Android 11,6 inches,Snapdragon 765G,8 GB,128 GB,12.2 MP,4080 mAh,699
+19,OnePlus,8T,2020,Android 11,6.55 inches,Snapdragon 865,12 GB,256 GB,48 MP,4500 mAh,749
+20,Xiaomi,Redmi Note 10 Pro,2021,Android 11,6.67 inches,Snapdragon 732G,6 GB,128 GB,108 MP,5020 mAh,279
+21,Huawei,Mate 40 Pro,2020,Android 10,6.76 inches,Kirin 9000 5G,8 GB,256 GB,50 MP,4400 mAh,1199
+22,Motorola,Razr 5G,2020,Android 10,6.2 inches,Snapdragon 765G,8 GB,256 GB,48 MP,2800 mAh,1399
+23,Sony,Xperia 5 II,2020,Android 10,6.1 inches,Snapdragon 865,8 GB,128 GB,12 MP,4000 mAh,949
+24,Oppo,Reno 6 Pro 5G,2021,Android 11,6.55 inches,MediaTek Dimensity 1200,12 GB,256 GB,64 MP,4500 mAh,799
+49,LG,G8 ThinQ,2019,Android 9.0,6.1 inches,Snapdragon 855,6 GB,128 GB,12 MP + 16 MP,3500 mAh,850
+50,Nokia,9 PureView,2019,Android 9.0,5.99 inches,Snapdragon 845,6 GB,128 GB,5x 12 MP,3320 mAh,700
+51,Google,Pixel 4 XL,2019,Android 10,6.3 inches,Snapdragon 855,6 GB,64 GB,12.2 MP + 16 MP,3700 mAh,899
+52,Samsung,Galaxy A50,2019,Android 9.0,6.4 inches,Exynos 9610,4 GB,64 GB,25 MP + 8 MP + 5 MP,4000 mAh,349
+53,Huawei,P30 Pro,2019,Android 9.0,6.47 inches,Kirin 980,8 GB,128 GB,40 MP + 20 MP + 8 MP,4200 mAh,900
+54,OnePlus,7 Pro,2019,Android 9.0,6.67 inches,Snapdragon 855,6 GB,128 GB,48 MP + 8 MP + 16 MP,4000 mAh,669
+55,Xiaomi,Mi 9,2019,Android 9.0,6.39 inches,Snapdragon 855,6 GB,64 GB,48 MP + 12 MP + 16 MP,3300 mAh,445
+56,Apple,iPhone 11,2019,iOS 13,6.1 inches,A13 Bionic,4 GB,64 GB,12 MP + 12 MP,3110 mAh,699
+57,Sony,Xperia 1,2019,Android 9.0,6.5 inches,Snapdragon 855,6 GB,128 GB,12 MP + 12 MP + 12 MP,3330 mAh,950
+58,Motorola,Moto G7,2019,Android 9.0,6.2 inches,Snapdragon 632,4 GB,64 GB,12 MP + 5 MP,3000 mAh,299
+59,Asus,Zenfone 6,2019,Android 9.0,6.4 inches,Snapdragon 855,6 GB,64 GB,48 MP + 13 MP,5000 mAh,499
+60,Realme,X2 Pro,2019,Android 9.0,6.5 inches,Snapdragon 855+,8 GB,128 GB,64 MP + 13 MP + 8 MP + 2 MP,4000 mAh,469
+61,HTC,U12 Life,2018,Android 8.1,6 inches,Snapdragon 636,4 GB,64 GB,16 MP + 5 MP,3600 mAh,349
+62,BlackBerry,KEY2 LE,2018,Android 8.1,4.5 inches,Snapdragon 636,4 GB,32 GB,13 MP + 5 MP,3000 mAh,449
+63,Apple,iPhone XS,2018,iOS 12,5.8 inches,A12 Bionic,4 GB,64 GB,12 MP + 12 MP,2658 mAh,999
+64,Samsung,Galaxy S10,2019,Android 9.0,6.1 inches,Exynos 9820,8 GB,128 GB,12 MP + 12 MP + 16 MP,3400 mAh,899
+65,Google,Pixel 3a,2019,Android 9.0,5.6 inches,Snapdragon 670,4 GB,64 GB,12.2 MP,3000 mAh,399
+66,OnePlus,6T,2018,Android 9.0,6.41 inches,Snapdragon 845,6 GB,128 GB,16 MP + 20 MP,3700 mAh,549
+67,Xiaomi,Redmi Note 7,2019,Android 9.0,6.3 inches,Snapdragon 660,4 GB,64 GB,48 MP + 5 MP,4000 mAh,200
+68,Huawei,Mate 20 Pro,2018,Android 9.0,6.39 inches,Kirin 980,6 GB,128 GB,40 MP + 20 MP + 8 MP,4200 mAh,999
+553,Apple,iPhone 14 Pro,2023,iOS 16,6.1 inches,A16 Bionic,6 GB,128 GB,12 MP,4400 mAh,1199
+554,Samsung,Galaxy Z Fold4,2023,Android 12,7.6 inches,Snapdragon 8 Gen 1,12 GB,256 GB,108 MP,4400 mAh,1799
+555,Google,Pixel 7,2023,Android 13,6.3 inches,Google Tensor G2,8 GB,128 GB,50 MP,4600 mAh,999
+556,OnePlus,10T,2023,Android 12,6.7 inches,Snapdragon 8 Gen 1,8 GB,128 GB,50 MP,4800 mAh,649
+557,Xiaomi,Mi 12,2023,Android 12,6.28 inches,Snapdragon 8 Gen 1,8 GB,128 GB,50 MP,4500 mAh,749
+558,Huawei,P50 Pro,2023,HarmonyOS,6.6 inches,Kirin 9000,8 GB,256 GB,50 MP,4360 mAh,1199
+559,Motorola,Edge 30,2023,Android 12,6.5 inches,Snapdragon 8 Gen 1,8 GB,128 GB,50 MP,5000 mAh,699
+560,Sony,Xperia 5 IV,2023,Android 12,6.1 inches,Snapdragon 8 Gen 1,8 GB,128 GB,12 MP,5000 mAh,999
+561,Oppo,Find X5 Pro,2023,Android 12,6.7 inches,Snapdragon 8 Gen 1,12 GB,256 GB,50 MP,5000 mAh,1199
+562,LG,Velvet 2 Pro,2023,Android 11,6.8 inches,Snapdragon 888,8 GB,128 GB,64 MP,4300 mAh,599
+563,Asus,Zenfone 9,2023,Android 12,5.9 inches,Snapdragon 8 Gen 1,8 GB,128 GB,64 MP,4300 mAh,699
+564,Realme,GT Neo 3,2023,Android 12,6.7 inches,Dimensity 8100,8 GB,128 GB,50 MP,5000 mAh,499

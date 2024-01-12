@@ -1,0 +1,58 @@
+customer_id,name,location,email,phone_number,phone_id,store
+1,Emma Smith,USA,emma.smith@email.com,+10123456001,1,Amazon
+2,Liam Johnson,Canada,liam.johnson@email.com,+11023456002,2,Samsung Store
+3,Marco Polo,Italy,marco.polo@email.com,+39123456003,3,Apple Store
+4,Lucas Moore,Germany,lucas.moore@email.com,+49123456048,4,Fnac
+5,Mia Thompson,Spain,mia.thompson@email.com,+34123456049,5,Carrefour
+6,Lionel Gauthier,Switzerland,lionel.gauthier@email.com,+4123456001,6,Amazon
+7,Jacob Taylor,France,jacob.taylor@email.com,+33123456050,7,Boulanger
+8,Sophia Martinez,Mexico,sophia.martinez@email.com,+52123456008,8,Mercado Libre
+9,Ethan Brown,Australia,ethan.brown@email.com,+61123456009,9,JB Hi-Fi
+10,Isabella Clark,New Zealand,isabella.clark@email.com,+64123456010,10,Noel Leeming
+11,Mason Rodriguez,India,mason.rodriguez@email.com,+91123456011,11,Reliance Digital
+12,Ava White,South Africa,ava.white@email.com,+27123456012,12,Takealot
+13,Oliver Harris,Nigeria,oliver.harris@email.com,+234123456013,13,Jumia
+14,Mia Martin,Brazil,mia.martin@email.com,+55123456014,14,Americanas
+15,James Lee,South Korea,james.lee@email.com,+82123456015,15,Gmarket
+16,Charlotte Walker,Russia,charlotte.walker@email.com,+7123456016,16,M.Video
+17,Harper Hall,Japan,harper.hall@email.com,+81123456017,17,Rakuten
+18,Evelyn Young,Turkey,evelyn.young@email.com,+90123456018,18,Hepsiburada
+19,Ahmed Al Maktum,United Arab Emirates,ahmed.almaktum@email.com,+97123456019,19,Sharaf DG
+20,Lucas Wright,Singapore,lucas.wright@email.com,+65123456020,20,Courts
+21,Amelia Green,Malaysia,amelia.green@email.com,+60123456021,21,Lazada
+22,Henry Adams,Thailand,henry.adams@email.com,+66123456022,22,Central Online
+23,Ava Martinez,Brazil,ava.martinez@email.com,+55123456041,41,Americanas
+24,Mason Hernandez,Argentina,mason.hernandez@email.com,+54123456042,42,Frávega
+25,Ethan King,Japan,ethan.king@email.com,+81123456043,43,Bic Camera
+26,Harper Lee,South Korea,harper.lee@email.com,+82123456044,44,Gmarket
+27,Matthew Clark,India,matthew.clark@email.com,+91123456045,45,Flipkart
+28,Elizabeth Lewis,Russia,elizabeth.lewis@email.com,+74123456046,46,M.Video
+29,Jackson Young,Turkey,jackson.young@email.com,+90123456047,47,Trendyol
+30,Charlotte Robinson,Germany,charlotte.robinson@email.com,+49123456048,48,MediaMarkt
+31,Henry Clark,Mexico,henry.clark@email.com,+52123456049,49,Walmart
+32,Amelia Lewis,France,amelia.lewis@email.com,+33123456050,50,Fnac
+33,Noah Anderson,Italy,noah.anderson@email.com,+39123456051,3,Apple Store
+34,Aria Martin,Spain,aria.martin@email.com,+34123456052,5,Carrefour
+35,Logan White,USA,logan.white@email.com,+10123456053,1,Amazon
+36,Isaac Johnson,Canada,isaac.johnson@email.com,+11023456054,2,Samsung Store
+37,Zoe King,Mexico,zoe.king@email.com,+52123456055,49,Walmart
+38,Liam Smith,Japan,liam.smith@email.com,+81123456056,17,Rakuten
+39,Grace Lee,South Korea,grace.lee@email.com,+82123456057,15,Gmarket
+40,Oliver Brown,Germany,oliver.brown@email.com,+49123456058,48,MediaMarkt
+41,Ella Davis,France,ella.davis@email.com,+33123456059,50,Fnac
+42,Mia Wilson,Australia,mia.wilson@email.com,+61123456060,9,JB Hi-Fi
+43,Ethan Harris,UK,ethan.harris@email.com,+44123456061,3,Apple Store
+44,Olivia Martinez,USA,olivia.martinez@email.com,+52123456062,49,Walmart
+45,Aiden Lee,South Korea,aiden.lee@email.com,+82123456063,15,Gmarket
+46,Emma Thompson,Canada,emma.thompson@email.com,+11023456064,2,Samsung Store
+47,Sophia Robinson,USA,sophia.robinson@email.com,+10123456065,1,Amazon
+48,Jackson Clark,Germany,jackson.clark@email.com,+49123456066,48,MediaMarkt
+49,Ava Hernandez,Spain,ava.hernandez@email.com,+34123456067,5,Carrefour
+50,Mason Wright,Italy,mason.wright@email.com,+39123456068,3,Apple Store
+51,Lily Evans,France,lily.evans@email.com,+33123456069,50,Fnac
+52,Noah White,Australia,noah.white@email.com,+61123456070,9,JB Hi-Fi
+53,Mia Johnson,Canada,mia.johnson@email.com,+11023456071,2,Samsung Store
+54,Lucas Brown,USA,lucas.brown@email.com,+10123456072,1,Amazon
+55,Chloe Green,UK,chloe.green@email.com,+44123456073,3,Apple Store
+56,Isabella Garcia,USA,isabella.garcia@email.com,+52123456074,49,Walmart
+57,Gabriel Martinez,Brazil,gabriel.martinez@email.com,+55123456075,14,Americanas
